@@ -4,7 +4,7 @@ title: "Graph - Redesigns"
 
 ![](Bad Graph 1.jpg)
 
-Let us look into the above chart from the Canadian National Broadcast Company showing their sources of funding in two financial years. The above bar graph looks simple and easy to understand, but there are a few flaws in it. Let’s have a look into it.
+Let us observe into the above chart from the Canadian National Broadcast Company showing their sources of funding in two financial years. It looks simple and easy to understand, but there are few flaws in it. Let’s have a look into it.
 
 -   We can see that the Y-axis scale is not properly arranged. It has a break in it. The lower ticks on the Y-axis scale are separated at \$100M. But there is a sudden increase on the scale from \$700M to \$1700M. Due to this, we can see that the bar of the Revenue in both the years (2017-2018 and 2018-2019) is greater than the Government Funding which is not true.
 

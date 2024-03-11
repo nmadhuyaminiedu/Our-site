@@ -1,11 +1,21 @@
 ---
 title: "Our site"
+about:
+  template: trestles
+  image: pic2.jpg
+  links:
+    - icon: github
+      text: Madhu Yamini
+      href: https://github.com/nmadhuyaminiedu
+    - icon: github
+      text: Sowdhamini
+      href: https://github.com/SowdhaminiBharadwaj
 ---
 
-This is a Quarto website.
+**Welcome to “Our Site”!**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Working on this project was an exciting journey for us as we got
+an opportunity to explore, learn and gain hands-on learning on the topics we
+learnt so far.
 
-```{r}
-1 + 1
-```
+We are happy to present our project website and hope you find it clear and understandable.
