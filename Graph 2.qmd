@@ -2,7 +2,7 @@
 title: "Code & Implementation"
 ---
 
-![**Top 10 Films by Worldwide Grosses**](Bad%20Graph%202.jpg){fig-align="left" width="504"}
+![**Top 10 Films by Worldwide Grosses**](Bad%20Graph%202.jpg){fig-align="center" width="443"}
 
 Data analysed from the graph
 

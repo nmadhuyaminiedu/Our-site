@@ -2,7 +2,7 @@
 title: "Graph - Redesigns"
 ---
 
-![](Bad%20Graph%202.jpg)
+![](Bad%20Graph%202.jpg){fig-align="center" width="431"}
 
 Let us proceed with the second graph. The above bubble chart is trying to give us information regarding the Top 10 Films by Worldwide Grosses. It shows the names of the Films, Year - the film has released and its Production Budget. But there are a few issues with the above chart.
 
