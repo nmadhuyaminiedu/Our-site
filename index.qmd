@@ -8,6 +8,8 @@ Working on this project was an exciting journey for us as we got an opportunity 
 
 We are happy to present our project website and hope you find it clear and understandable.
 
+***Youtube link:** [STAT Mid Project](https://youtu.be/QVRpvHkwhNI)*
+
 [*Team 12:*]{.underline}
 
 -   *Madhu Yamini Nainala*
@@ -21,3 +23,5 @@ We are happy to present our project website and hope you find it clear and under
     *smandav3\@gmu.edu*
 
     [*Github Profile*](https://github.com/SowdhaminiBharadwaj)
+
+-   
