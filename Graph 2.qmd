@@ -2,7 +2,7 @@
 title: "Code & Implementation"
 ---
 
-![**Top 10 Films by Worldwide Grosses**](Bad Graph 2.jpg){fig-align="center" width="571"}
+![**Top 10 Films by Worldwide Grosses**](Bad Graph 2.jpg){fig-align="left" width="571"}
 
 Data analysed from the graph
 
@@ -42,7 +42,7 @@ library(plotly)
 Plot3 = ggplot(filmdata, aes( x=Year_of_Release,y=Production_Budget))+
   geom_bar(stat = "identity", color="black",aes(fill = Film),position = "dodge")+
   scale_y_continuous(limits=c(0,2))+
-  labs(x ="Release Year",y="Production Budget",title ="Top 10 Films by Worldwide Grosses")+
+  labs(x ="Release Year",y="Production Budget in Billions",title ="Top 10 Films by Worldwide Grosses")+
   scale_fill_manual(values = c(rgb(0,0.3,0),"grey","yellow","skyblue","orange","blue","purple","green","pink","red"))+
   theme(legend.text=element_text(size=8,face="italic"),
         legend.title=element_text(size=8.5,face="bold"),
@@ -51,6 +51,8 @@ Plot3 = ggplot(filmdata, aes( x=Year_of_Release,y=Production_Budget))+
 
 Plot3
 ```
+
+Using ggplotly to make the above graph interactive.
 
 ```{r}
 ggplotly(Plot3)
@@ -71,6 +73,8 @@ Plot4 = ggplot(filmdata, aes(x = Year_of_Release, y = Production_Budget)) +
 
 Plot4
 ```
+
+Using ggplotly to make the above graph interactive.
 
 ```{r}
 ggplotly(Plot4)

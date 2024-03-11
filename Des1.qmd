@@ -54,7 +54,7 @@ Plot1
 
 # Redesign 2
 
-The second redesign is a Juxtaposed graph. In this graph we can see the seven Sources of Funding shown for the given two years.
+The second redesign is a Juxtaposed graph. In this graph we can see the seven Sources of Funding shown for the given two years.
 
 ```{r echo=FALSE,message=FALSE}
 

@@ -1,21 +1,25 @@
 ---
-title: "Our site"
-about:
-  template: trestles
-  image: pic2.jpg
-  links:
-    - icon: github
-      text: Madhu Yamini
-      href: https://github.com/nmadhuyaminiedu
-    - icon: github
-      text: Sowdhamini
-      href: https://github.com/SowdhaminiBharadwaj
+title: "Welcome to Our Project Site!!"
 ---
 
-**Welcome to “Our Site”!**
+![](pic2.jpg){fig-align="left" width="450" height="250"}
 
 Working on this project was an exciting journey for us as we got
-an opportunity to explore, learn and gain hands-on learning on the topics we
+an opportunity to explore and gain hands-on learning on the topics we
 learnt so far.
 
 We are happy to present our project website and hope you find it clear and understandable.
+
+[*Team 12:*]{.underline}
+
+-   *Madhu Yamini Nainala*
+
+    *mnainala\@gmu.edu*
+
+    [*Github Profile*](https://github.com/nmadhuyaminiedu)
+
+-   *Sowdhamini Bharadwaj Mandava Venkata*
+
+    *smandav3\@gmu.edu*
+
+    [*Github Profile*](https://github.com/SowdhaminiBharadwaj)

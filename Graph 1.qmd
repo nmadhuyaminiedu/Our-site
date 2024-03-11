@@ -2,7 +2,7 @@
 title: "Code & Implementation"
 ---
 
-![**Canadian National Broadcast Company showing their sources of funding in two financial years.**](Bad Graph 1.jpg){fig-align="center" width="565"}
+![**Canadian National Broadcast Company showing their sources of funding in two financial years.**](Bad Graph 1.jpg){fig-align="left" width="565"}
 
 # Redesign 1
 
@@ -88,6 +88,8 @@ Plot2 = ggplot(Funds, aes(x= Funding,y=Year,fill=Source_of_Funding,group = Sourc
 
 Plot2
 ```
+
+Using ggplotly to make the above graph interactive.
 
 ```{r}
 ggplotly(Plot2)
