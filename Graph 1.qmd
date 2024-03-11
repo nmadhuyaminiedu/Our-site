@@ -2,7 +2,7 @@
 title: "Code & Implementation"
 ---
 
-![**Canadian National Broadcast Company showing their sources of funding in two financial years.**](Bad Graph 1.jpg){fig-align="left" width="565"}
+![**Canadian National Broadcast Company showing their sources of funding in two financial years.**](Bad%20Graph%201.jpg){fig-align="left" width="437"}
 
 # Redesign 1
 

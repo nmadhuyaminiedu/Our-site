@@ -2,7 +2,7 @@
 title: "Graph - Redesigns"
 ---
 
-![](Bad Graph 1.jpg)
+![](Bad%20Graph%201.jpg)
 
 Let us observe into the above chart from the Canadian National Broadcast Company showing their sources of funding in two financial years. It looks simple and easy to understand, but there are few flaws in it. Let’s have a look into it.
 

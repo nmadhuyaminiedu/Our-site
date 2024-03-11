@@ -4,9 +4,7 @@ title: "Welcome to Our Project Site!!"
 
 ![](pic2.jpg){fig-align="left" width="450" height="250"}
 
-Working on this project was an exciting journey for us as we got
-an opportunity to explore and gain hands-on learning on the topics we
-learnt so far.
+Working on this project was an exciting journey for us as we got an opportunity to explore and gain hands-on learning on the topics we learnt so far.
 
 We are happy to present our project website and hope you find it clear and understandable.
 
