@@ -1,0 +1,10 @@
+---
+title: References
+about:
+  template: jolla
+  image: Image1.jpg
+  links:
+    - icon: Graph1
+      text: Graph1
+      href: https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/
+---

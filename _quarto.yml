@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Our Site"
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Mid Project"
+        contents:
+          - section: "Graph 1"
+            contents:
+              - Des1.qmd
+              - Graph 1.qmd
+          - section: "Graph 2" 
+            contents: 
+              - Des2.qmd
+              - Graph 2.qmd
+          - Ref.qmd
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+
+
